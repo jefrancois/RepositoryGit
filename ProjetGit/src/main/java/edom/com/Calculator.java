@@ -12,7 +12,7 @@ public class Calculator {
 	    return a * b;
 	}
 	
-	//Fonction soustraction
+	//Fonction soustraction ok
 	public int soust(int a, int b) {
 	    return a - b;
 	}
