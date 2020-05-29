@@ -3,6 +3,7 @@
   <groupId>EnterpriseEdom</groupId>
   <artifactId>ProjetGit</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
   
   <!-- Indiquer l'encodage et le projet en Java 11 -->
 	<properties>
