@@ -14,7 +14,6 @@ public class Calculator {
 	
 	//Fonction soustraction
 	public int soust(int a, int b) {
-		// TODO Auto-generated method stub
 	    return a - b;
 	}
 
