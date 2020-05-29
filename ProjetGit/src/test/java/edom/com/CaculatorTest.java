@@ -19,5 +19,20 @@ class CaculatorTest {
 		// Assert
 		assertEquals(5, somme);
 	}
+	
+	//Test pour la multiplication
+	@Test
+	void testMultiplierNumbers() {
+		// Arrange
+		int a = 2;
+		int b = 3;
+		Calculator calculator = new Calculator();
+
+		// Act
+		int prod = calculator.mult(a, b);
+
+		// Assert
+		assertEquals(6, prod);
+	}
 
 }
