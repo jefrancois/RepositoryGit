@@ -16,5 +16,10 @@ public class Calculator {
 	public int soust(int a, int b) {
 	    return a - b -a;
 	}
+	
+	//Fonction quelconque ok
+		public int quelqu(int a, int b) {
+		    return a - b *a;
+		}
 
 }
