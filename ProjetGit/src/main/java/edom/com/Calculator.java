@@ -14,7 +14,7 @@ public class Calculator {
 	
 	//Fonction soustraction ok
 	public int soust(int a, int b) {
-	    return a - b;
+	    return a - b -a;
 	}
 
 }
