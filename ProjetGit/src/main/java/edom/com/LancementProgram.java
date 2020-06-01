@@ -11,7 +11,15 @@ public class LancementProgram {
 		// Act
 		int somme = calculator.add(a, b);
 		
-		System.out.println(somme);
+		if (somme > 0)
+		{
+			System.out.println(somme);
+		}
+		else
+		{
+			System.out.println("Je suis hors du sujet");
+		}
+			
 		
 		
 
