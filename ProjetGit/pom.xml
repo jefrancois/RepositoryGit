@@ -22,6 +22,7 @@
 			<version>5.5.1</version>
 			<scope>test</scope>
 		</dependency>
+
 	</dependencies>
 
 	<!-- Pour être compatible avec JUnit 5 -->
@@ -33,9 +34,9 @@
 			</plugin>
 
 			<plugin>
-				<groupId>org.jacoco</groupId>
-				<artifactId>jacoco-maven-plugin</artifactId>
-				<version>0.8.5</version>
+			<groupId>org.jacoco</groupId>
+			<artifactId>jacoco-maven-plugin</artifactId>
+			<version>0.8.5</version>
 				<executions>
 					<execution>
 						<id>pre-unit-test</id>
