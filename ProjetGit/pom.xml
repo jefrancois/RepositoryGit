@@ -23,17 +23,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/net.sourceforge.cobertura/cobertura -->
-		<dependency>
-			<groupId>net.sourceforge.cobertura</groupId>
-			<artifactId>cobertura</artifactId>
-			<version>2.1.1</version>
-			<scope>test</scope>
-		</dependency>
-
-
-
-
 	</dependencies>
 
 	<!-- Pour être compatible avec JUnit 5 -->
