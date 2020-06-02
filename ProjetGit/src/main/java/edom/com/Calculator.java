@@ -11,15 +11,5 @@ public class Calculator {
 		// TODO Auto-generated method stub
 	    return a * b;
 	}
-	
-	//Fonction soustraction ok
-	public int soust(int a, int b) {
-	    return a - b -a;
-	}
-	
-	//Fonction quelconque ok
-		public int quelqu(int a, int b) {
-		    return a - b *a;
-		}
 
 }
