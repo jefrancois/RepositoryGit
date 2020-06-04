@@ -4,7 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>EnterpriseEdom</groupId>
 	<artifactId>ProjetGit</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+	
 
 
 	<!-- Indiquer l'encodage et le projet en Java 11 -->
