@@ -28,7 +28,7 @@ class CaculatorTest {
 		int b = 3;
 		Calculator calculator = new Calculator();
 
-		// Act
+		// Action
 		int prod = calculator.mult(a, b);
 
 		// Assert ok
