@@ -27,7 +27,7 @@
 
 	</dependencies>
 
-	<!-- Pour être compatible avec JUnit 5 -->
+	<!-- Pour être compatible avec JUnit 5, comment retirer les methodes non utilisé -->
 	<build>
 		<plugins>
 			<plugin>
