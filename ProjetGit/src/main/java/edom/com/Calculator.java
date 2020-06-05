@@ -1,7 +1,7 @@
 package edom.com;
 
 public class Calculator {
-// Ok
+// Ok toujours
 	public int add(int a, int b) {
 	    return a + b;
 	}
