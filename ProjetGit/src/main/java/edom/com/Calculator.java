@@ -1,14 +1,14 @@
 package edom.com;
 
 public class Calculator {
-
+// Ok
 	public int add(int a, int b) {
 		// TODO Auto-generated method stub
 	    return a + b;
 	}
 	
 	public int mult(int a, int b) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub Ok
 	    return a * b;
 	}
 
