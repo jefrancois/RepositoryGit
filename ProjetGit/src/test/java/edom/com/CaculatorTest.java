@@ -20,7 +20,7 @@ class CaculatorTest {
 		assertEquals(5, somme);
 	}
 	
-	//Test pour la multiplication good
+	//Test pour la multiplication go
 	@Test
 	void testMultiplierNumbers() {
 		// Arrange
