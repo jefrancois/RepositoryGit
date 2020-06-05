@@ -31,7 +31,7 @@ class CaculatorTest {
 		// Act
 		int prod = calculator.mult(a, b);
 
-		// Assert
+		// Assert ok
 		assertEquals(6, prod);
 	}
 
