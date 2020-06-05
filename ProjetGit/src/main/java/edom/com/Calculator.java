@@ -11,11 +11,5 @@ public class Calculator {
 
 	    return a * b;
 	}
-	
-	public int mult222(int a, int b) {
-		// TODO Auto-generated method stub Ok
-
-	    return a * b;
-	}
 
 }
