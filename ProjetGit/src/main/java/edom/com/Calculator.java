@@ -7,10 +7,8 @@ public class Calculator {
 	}
 	
 	public int mult(int a, int b) {
-<<<<<<< HEAD
-=======
 		// TODO Auto-generated method stub Ok
->>>>>>> refs/heads/DevFonctionalite1
+
 	    return a * b;
 	}
 
