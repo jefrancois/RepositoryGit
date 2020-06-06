@@ -6,7 +6,7 @@
 	<artifactId>ProjetGit</artifactId>
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	
+
 
 
 	<!-- Indiquer l'encodage et le projet en Java 11 -->
@@ -27,7 +27,8 @@
 
 	</dependencies>
 
-	<!-- Pour être compatible avec JUnit 5, comment retirer les methodes non utilisé -->
+	<!-- Pour être compatible avec JUnit 5, comment retirer les methodes non 
+		utilisé -->
 	<build>
 		<plugins>
 			<plugin>
@@ -42,10 +43,16 @@
 				<version>2.5.1</version>
 				<configuration>
 					<formats>
-					<format>xml</format>
-					<format>xml</format>
+						<format>xml</format>
+						<format>xml</format>
 					</formats>
 				</configuration>
+			</plugin>
+
+			<plugin>
+				<groupId>org.jacoco</groupId>
+				<artifactId>jacoco-maven-plugin</artifactId>
+				<version>0.6.4.201312101107</version>
 			</plugin>
 
 		</plugins>
