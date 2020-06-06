@@ -35,20 +35,5 @@ class CaculatorTest {
 		assertEquals(6, prod);
 	}
 	
-	
-	//Test pour la multiplication 2
-		@Test
-		void testMultiplier2() {
-			// Arrange
-			int a = 2;
-			int b = 3;
-			Calculator calculator = new Calculator();
-
-			// Action
-			int prod = calculator.mult(a, b);
-
-			// Assert ok
-			assertEquals(6, prod);
-		}
 
 }

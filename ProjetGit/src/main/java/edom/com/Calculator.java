@@ -10,7 +10,8 @@ public class Calculator {
 		// TODO Auto-generated method stub Ok
 		
 		if (a > b)
-		{a = a + 0;}
+		{
+			a = a + 0;}
 		else
 		{
 			b = b + 0;
