@@ -60,7 +60,6 @@
 						<version>2.5.1</version>
 
 						<configuration>
-							<argLine>-noverify</argLine>
 							<formats>
 								<format>html</format>
 								<format>xml</format>
