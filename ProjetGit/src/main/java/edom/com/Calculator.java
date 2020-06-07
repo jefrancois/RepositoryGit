@@ -11,7 +11,7 @@ public class Calculator {
 		
 		if (a > b)
 		{
-			a = a + 0;}
+			a = (a +0)*1;}
 		else
 		{
 			b = b + 0;
