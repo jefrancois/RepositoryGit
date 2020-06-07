@@ -16,10 +16,7 @@ public class Calculator {
 	public void addodo(int a, int b) {
 		if (a > b)
 		{a = a * b + 5;}
-		else
-		{
-			b = b + a;
-		}
+		
 	    
 	}
 
