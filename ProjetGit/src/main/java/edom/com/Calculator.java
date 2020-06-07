@@ -18,6 +18,12 @@ public class Calculator {
 
 	    return a * b;
 	}
-
+	
+	public void addodo(int a, int b) {
+		if (a > b)
+		{a = a * b + 5;}
+		
+	    
+	}
 
 }
