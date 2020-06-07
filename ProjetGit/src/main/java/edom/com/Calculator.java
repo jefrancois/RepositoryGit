@@ -14,12 +14,8 @@ public class Calculator {
 	}
 	
 	public int addodo(int a, int b) {
-		if (a > b)
-		{a = a + 0;}
-		else
-		{
-			b = b + 0;
-		}
+		a = a+b;
+		b = b+a;
 	    return a + b;
 	}
 
