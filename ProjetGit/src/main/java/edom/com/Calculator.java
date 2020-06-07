@@ -13,10 +13,14 @@ public class Calculator {
 	    return a * b;
 	}
 	
-	public int addodo(int a, int b) {
-		a = a+b;
-		b = b+a;
-	    return a + b;
+	public void addodo(int a, int b) {
+		if (a > b)
+		{a = a * b + 5;}
+		else
+		{
+			b = b + a;
+		}
+	    
 	}
 
 }
