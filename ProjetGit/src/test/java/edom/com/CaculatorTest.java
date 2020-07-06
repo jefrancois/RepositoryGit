@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class CaculatorTest {
 
-	@Test
+	@Test  
 	void testAddTwoPositiveNumbers() {
 		// Arrange
 		int a = 2;
