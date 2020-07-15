@@ -19,8 +19,8 @@ class CaculatorTest {
 		// Assert
 		assertEquals(5, somme);
 	}
-	
-	//Test pour la multiplication go
+	/*
+	//Test pour la multiplication go 
 	@Test
 	void testMultiplierNumbers() {
 		// Arrange
@@ -34,6 +34,7 @@ class CaculatorTest {
 		// Assert ok
 		assertEquals(6, prod);
 	}
+	*/
 	
 
 }
